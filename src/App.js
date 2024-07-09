@@ -5,5 +5,5 @@ const App = () => (
     <AllRoutes />
   </>
 );
-
+// this is new myntra clone
 export default App;
